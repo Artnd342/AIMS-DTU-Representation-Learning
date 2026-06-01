@@ -3,7 +3,7 @@
 * **Author:** Arpit Jyoti Anand
 * **Affiliation:** Electronics and Communication Engineering, Delhi Technological University (DTU)
 * **Target:** AIMS DTU Research Internship Assignment 2026
-* **Project Repository:** [Insert your GitHub Link Here]
+* **Project Repository:** [https://github.com/Artnd342]
 
 ---
 
