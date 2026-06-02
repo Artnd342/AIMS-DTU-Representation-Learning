@@ -5,6 +5,8 @@
 * **Target:** AIMS DTU Research Internship Assignment 2026
 * **Project Repository:** [https://github.com/Artnd342]
 
+# Self-Supervised Learning Platform
+**Live Interactive App Demo:** [Click Here to Launch the Live Dashboard](https://aims-dtu-representation-learning-zo5onc2n9nebbh4fn8esmy.streamlit.app/)
 ---
 
 ## 1. Executive Summary & Objectives
