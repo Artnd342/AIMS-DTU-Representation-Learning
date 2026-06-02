@@ -3,7 +3,7 @@
 * **Author:** Arpit Jyoti Anand
 * **Affiliation:** Electronics and Communication Engineering, Delhi Technological University (DTU)
 * **Target:** AIMS DTU Research Internship Assignment 2026
-* **Project Repository:** [https://github.com/Artnd342]
+* **Project Repository:** [https://github.com/Artnd342/AIMS-DTU-Representation-Learning]
 
 # Self-Supervised Learning Platform
 **Live Interactive App Demo:** [Click Here to Launch the Live Dashboard](https://aims-dtu-representation-learning-zo5onc2n9nebbh4fn8esmy.streamlit.app/)
